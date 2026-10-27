@@ -5,6 +5,10 @@
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aayyaz3d-166/ONE-Binary-Reasoning-Intelligence.git"
+  },
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -31,6 +35,7 @@
     "dist",
     "src",
     "docs",
+    "assets",
     "README.md",
     "LICENSE",
     "LICENSE-MIT",

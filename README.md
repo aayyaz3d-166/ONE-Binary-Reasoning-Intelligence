@@ -1,10 +1,16 @@
+<div align="center">
+
+![ONE Binary 0/1 Reasoning Intelligence](assets/one-binary-reasoning-logo.png)
+
 # ONE Binary 0/1 Reasoning Intelligence
 
-[![CI](https://github.com/aayyaz3d-166/one-binary-reasoning/actions/workflows/ci.yml/badge.svg)]()
-[![License](https://img.shields.io/badge/license-MIT%20%7C%20Apache--2.0-blue.svg)]()
-[![Runtime Dependencies](https://img.shields.io/badge/dependencies-0-success.svg)]()
+[![CI](https://github.com/aayyaz3d-166/ONE-Binary-Reasoning-Intelligence/actions/workflows/ci.yml/badge.svg)](https://github.com/aayyaz3d-166/ONE-Binary-Reasoning-Intelligence/actions)
+[![License](https://img.shields.io/badge/license-MIT%20%7C%20Apache--2.0-blue.svg)](LICENSE)
+[![Runtime Dependencies](https://img.shields.io/badge/dependencies-0-success.svg)](package.json)
 
-> A deterministic, multi-tier 3/6/9-bit binary language and bounded 0/1 symbolic reasoning intelligence engine with zero external runtime dependencies.
+</div>
+
+> An independent deterministic reasoning system combining ONE Binary Language (3-bit, 6-bit, and 9-bit encoding) with ONE 0/1 Reasoning Intelligence, including binary encoding/decoding, state-space exploration, rule-based reasoning, and a unified integration bridge. Designed for future integration with ONE Language.
 
 ---
 
@@ -44,7 +50,7 @@ npm run build
 # 3. Static type-checking (zero errors)
 npm run typecheck
 
-# 4. Run comprehensive test suite (27 tests across 4 suites)
+# 4. Run comprehensive test suite (28 tests across 4 suites)
 npm test
 ```
 
